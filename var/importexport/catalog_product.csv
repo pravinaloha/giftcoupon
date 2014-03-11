@@ -1,0 +1,290 @@
+sku;_store;_attribute_set;_type;_category;_root_category;_product_websites;color;cost;country_of_manufacture;created_at;custom_design;custom_design_from;custom_design_to;custom_layout_update;description;enable_googlecheckout;gallery;gift_message_available;has_options;image;image_label;manufacturer;media_gallery;meta_description;meta_keyword;meta_title;minimal_price;msrp;msrp_display_actual_price_type;msrp_enabled;name;news_from_date;news_to_date;options_container;page_layout;price;required_options;short_description;small_image;small_image_label;special_from_date;special_price;special_to_date;status;tax_class_id;thumbnail;thumbnail_label;updated_at;url_key;url_path;visibility;weight;qty;min_qty;use_config_min_qty;is_qty_decimal;backorders;use_config_backorders;min_sale_qty;use_config_min_sale_qty;max_sale_qty;use_config_max_sale_qty;is_in_stock;notify_stock_qty;use_config_notify_stock_qty;manage_stock;use_config_manage_stock;stock_status_changed_auto;use_config_qty_increments;qty_increments;use_config_enable_qty_inc;enable_qty_increments;is_decimal_divided;_links_related_sku;_links_related_position;_links_crosssell_sku;_links_crosssell_position;_links_upsell_sku;_links_upsell_position;_associated_sku;_associated_default_qty;_associated_position;_tier_price_website;_tier_price_customer_group;_tier_price_qty;_tier_price_price;_group_price_website;_group_price_customer_group;_group_price_price;_media_attribute_id;_media_image;_media_lable;_media_position;_media_is_disabled
+TestProduct;;Default;simple;;Default Category;magentostore1;;;;2014-03-04 05:59:00;;;;;TestProduct;1;;;0;no_selection;;;;;;;;;Use config;Use config;TestProduct;;;Block after Info Column;;50000;0;TestProduct;no_selection;;;;;1;0;no_selection;;2014-03-04 05:59:00;testproduct;testproduct.html;4;21;88;0;1;0;0;1;1;1;0;1;1;;1;0;1;0;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Default Category;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+TestBella;;Default;simple;;;base;;;;2014-03-04 06:27:35;;;;;TestBella;1;;1;0;no_selection;;;;;;;;;Use config;Use config;TestBella;;;Block after Info Column;;50;0;TestBella;no_selection;;;;;1;0;no_selection;;2014-03-04 06:27:35;testbella;testbella.html;4;123;0;0;1;0;0;1;1;1;0;1;0;;1;0;1;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+PSB-S04;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:01:40;;;;;;1;;;0;no_selection;;;;;;;;;;;20 Atomix Extract;;;Block after Info Column;;8.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:25:28;20-atomix-extract;20-atomix-extract.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-HR1073;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:01:55;;;;;;1;;;0;no_selection;;;;;;;;;;;7 Keto DHEA 100 mg;;;Block after Info Column;;24.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:01:57;7-keto-dhea-100-mg;7-keto-dhea-100-mg.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-PF0571;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:01:59;;;;;;1;;;0;no_selection;;;;;;;;;;;Acai Extract;;;Block after Info Column;;12.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:01;acai-extract;acai-extract.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ALTRP4;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:03;;;;;;1;;;0;no_selection;;;;;;;;;;;Alteril Natural Sleep Aid;;;Block after Info Column;;9.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:04;alteril-natural-sleep-aid;alteril-natural-sleep-aid.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-TW0826;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:06;;;;;;1;;;0;no_selection;;;;;;;;;;;Amino Fuel 2000;;;Block after Info Column;;19.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:08;amino-fuel-2000;amino-fuel-2000.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-PF0453;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:10;;;;;This advantageous element along with others may explain the traditional belief in Chinese herbal medicine that deer antler velvet may help rebuild joint cartilage, lubricate the joints, regulate bone growth, encourage tissue healing and cell repair, relieve arthritis symptoms and increase muscle efficiency. It is also said to improve circulation and help the body to resist disease and injury.;1;;;0;no_selection;;;;;;;;;;;Antler Velvet 250mg Full Spect;;;Block after Info Column;;27.99;0;This advantageous element along with others may explain the traditional belief in Chinese herbal medicine that deer antler velvet may help rebuild joint cartilage, lubricate the joints, regulate bone growth, encourage tissue healing and cell repair, relieve arthritis symptoms and increase muscle efficiency. It is also said to improve circulation and help the body to resist disease and injury.;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:12;antler-velvet-250mg-full-spect;antler-velvet-250mg-full-spect.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-AY0001;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:14;;;;;;1;;;0;no_selection;;;;;;;;;;;Ashwagandha;;;Block after Info Column;;27.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:15;ashwagandha;ashwagandha.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AZ-101;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:17;;;;;A all natural nutritional supplement designed to increase sexual libido, desire, staying power, erection time and erection firmness. Only the finest ingredients have been used in the formulation of Aziffa. It works using natural ingredients to stimulate blood vessels, increase blood flow to the genitals, and special herbal extracts that help make the body feel sexually aroused and excited.;1;;;0;no_selection;;;;;;;;;;;Aziffa 2 Pk;;;Block after Info Column;;10.99;0;A all natural nutritional supplement designed to increase sexual libido, desire, staying power, erection time and erection firmness. Only the finest ingredients have been used in the formulation of Aziffa. It works using natural ingredients to stimulate blood vessels, increase blood flow to the genitals, and special herbal extracts that help make the body feel sexually aroused and excited.;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:19;aziffa-2-pk;aziffa-2-pk.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SDI-BFF1;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:21;;;;;;1;;;0;no_selection;;;;;;;;;;;BFF 1 Count Female Pill;;;Block after Info Column;;7.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:22;bff-1-count-female-pill;bff-1-count-female-pill.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EL-7024-99;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:24;;;;;;1;;;0;no_selection;;;;;;;;;;;Bigralis 1 Capsule;;;Block after Info Column;;9.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:26;bigralis-1-capsule;bigralis-1-capsule.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-SS0168;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:28;;;;;;1;;;0;no_selection;;;;;;;;;;;Brainstrong;;;Block after Info Column;;34.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:30;brainstrong;brainstrong.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-NW0636;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:31;;;;;;1;;;0;no_selection;;;;;;;;;;;Choline 500mg;;;Block after Info Column;;14.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:33;choline-500mg;choline-500mg.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-HR0678;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:35;;;;;;1;;;0;no_selection;;;;;;;;;;;Citrimax;;;Block after Info Column;;14.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:37;citrimax;citrimax.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+IRW-IN058225;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:39;;;;;;1;;;0;no_selection;;;;;;;;;;;CLA Lean Body Fat Reduction;;;Block after Info Column;;24.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:41;cla-lean-body-fat-reduction;cla-lean-body-fat-reduction.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EL-7013-97;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:42;;;;;Natural Boost's Climax Female Sexual Enhancer is a libido-intensifying capsule that will help build up sensuality, increase sexual desire, strengthen orgasms, intensify sensitivity, and heighten overall sexual pleasure. Natural Burst Climax Powerful Female Sexual Enhancer is a 100% Natural formula.;1;;;0;no_selection;;;;;;;;;;;Climax Female Enhancer 4Pk;;;Block after Info Column;;12.99;0;Natural Boost's Climax Female Sexual Enhancer is a libido-intensifying capsule that will help build up sensuality, increase sexual desire, strengthen orgasms, intensify sensitivity, and heighten overall sexual pleasure. Natural Burst Climax Powerful Female Sexual Enhancer is a 100% Natural formula.;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:44;climax-female-enhancer-4pk;climax-female-enhancer-4pk.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+NB-102;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:46;;;;;;1;;;0;no_selection;;;;;;;;;;;Cock Star For Her;;;Block after Info Column;;6.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:48;cock-star-for-her;cock-star-for-her.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MAD-DCPB;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:50;;;;;Cockstar Couples are fun for a girl and a boy. He takes one or two capsules an hour before activity for improved sexual performance and she takes two capsules an hour before activity for maximum sensitivity and desire. Then the fun begins. Four capsules included.;1;;;0;no_selection;;;;;;;;;;;Cockstar For Couples;;;Block after Info Column;;14.99;0;Cockstar Couples are fun for a girl and a boy. He takes one or two capsules an hour before activity for improved sexual performance and she takes two capsules an hour before activity for maximum sensitivity and desire. Then the fun begins. Four capsules included.;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:51;cockstar-for-couples;cockstar-for-couples.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MAD-DCB;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:53;;;;;;1;;;0;no_selection;;;;;;;;;;;Cockstar For Men;;;Block after Info Column;;9.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:55;cockstar-for-men;cockstar-for-men.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MAD-DFB;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:02:57;;;;;;1;;;0;no_selection;;;;;;;;;;;Cockstar For Women;;;Block after Info Column;;9.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:02:59;cockstar-for-women;cockstar-for-women.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EL-7045-2;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:01;;;;;;1;;;0;no_selection;;;;;;;;;;;Cockstar Sex Enhancement 2ct;;;Block after Info Column;;12.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:03;cockstar-sex-enhancement-2ct;cockstar-sex-enhancement-2ct.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-NA0043;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:05;;;;;Damiana (Turnera diffusa, T. aphrodisiaca) is wild shrub that grows in Mexico, Central America, and the West Indies. The Mayan peoples used damiana to enhance mental clarity and physical capacity. Preliminary animal research supports its affect on sexual function.;1;;;0;no_selection;;;;;;;;;;;Damiana Leaf Extract;;;Block after Info Column;;12.99;0;Damiana (Turnera diffusa, T. aphrodisiaca) is wild shrub that grows in Mexico, Central America, and the West Indies. The Mayan peoples used damiana to enhance mental clarity and physical capacity. Preliminary animal research supports its affect on sexual function.;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:06;damiana-leaf-extract;damiana-leaf-extract.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VAN-PF0258;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:08;;;;;Damiana (Turnera diffusa, T. aphrodisiaca) is wild shrub that grows in Mexico, Central America, and the West Indies. The Mayan peoples used damiana to enhance mental clarity and physical capacity. Preliminary animal research supports its affect on sexual function.;1;;;0;no_selection;;;;;;;;;;;Damiana Male Potentialâ„¢;;;Block after Info Column;;12.99;0;Damiana (Turnera diffusa, T. aphrodisiaca) is wild shrub that grows in Mexico, Central America, and the West Indies. The Mayan peoples used damiana to enhance mental clarity and physical capacity. Preliminary animal research supports its affect on sexual function.;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:10;damiana-male-potentiala;damiana-male-potentiala.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+IRW-IN057615;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:12;;;;;;1;;;0;no_selection;;;;;;;;;;;Deep Potency Fish Oil Pure;;;Block after Info Column;;19.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:14;deep-potency-fish-oil-pure;deep-potency-fish-oil-pure.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+IRW-IN057986;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:16;;;;;;1;;;0;no_selection;;;;;;;;;;;Deep Tissue Collagen Pure;;;Block after Info Column;;29.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:17;deep-tissue-collagen-pure;deep-tissue-collagen-pure.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EN-A01829;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:19;;;;;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+DELO DE-STRESS… Restores calm, inner relaxation and harmony
+
+Blending these four plants to make you calm, relaxed and peaceful. When you’re relaxed you are more receptive. Hawthorn calms inner tension and reduces anxiety. Orange Blossom gently helps digestion and relaxes the body. Walnut and Calamint soothe and improve sleep.";1;;;0;no_selection;;;;;;;;;;;Delo Destress;;;Block after Info Column;;3.99;0;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+DELO DE-STRESS… Restores calm, inner relaxation and harmony
+
+Blending these four plants to make you calm, relaxed and peaceful. When you’re relaxed you are more receptive. Hawthorn calms inner tension and reduces anxiety. Orange Blossom gently helps digestion and relaxes the body. Walnut and Calamint soothe and improve sleep.";no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:21;delo-destress;delo-destress.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EN-A01827;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:23;;;;;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+DELO ENERGY… Optimum vitality, increased stamina, more energy in and out of bed
+
+The blend of these 3 plants strengthen your mental and physical capacity. Guarana develops energy production and improves concentration. Ginseng strengthens vitality and supports healthy body functioning. Acerola is a body tonic that fortifies natural immune defenses.";1;;;0;no_selection;;;;;;;;;;;Delo Energy;;;Block after Info Column;;3.99;0;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+DELO ENERGY… Optimum vitality, increased stamina, more energy in and out of bed
+
+The blend of these 3 plants strengthen your mental and physical capacity. Guarana develops energy production and improves concentration. Ginseng strengthens vitality and supports healthy body functioning. Acerola is a body tonic that fortifies natural immune defenses.";no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:25;delo-energy;delo-energy.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EN-A01825;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:27;;;;;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+ 
+
+DELO SEXY… Optimum sexual dynamism, increased pleasure
+
+This hot, exciting and potent formula combines the complementary properties of 3 plant aphrodisiacs that work equally effectively for men and women. Ginger strengthens your constitution and boosts your confidence. Galangal relaxes and arouses desire. Cardamom stimulates blood circulation and increases sexual energy.";1;;;0;no_selection;;;;;;;;;;;Delo Sexy;;;Block after Info Column;;3.99;0;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+ 
+
+DELO SEXY… Optimum sexual dynamism, increased pleasure
+
+This hot, exciting and potent formula combines the complementary properties of 3 plant aphrodisiacs that work equally effectively for men and women. Ginger strengthens your constitution and boosts your confidence. Galangal relaxes and arouses desire. Cardamom stimulates blood circulation and increases sexual energy.";no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:28;delo-sexy;delo-sexy.html;4;;-5;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EN-A01833;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:30;;;;;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+ 
+
+DELO SLIM…and your water helps burn calories and slenderize your figure
+
+It helps you feel sexier and a little lighter. The genuine slim-down blend combines Mate and Bitter Orange, that attack fat and help you burn fat, Green Tea which reduces fat and sugar assimilation and drains water retention in your tissues, and Mango, Kiwi and Litchi to promote your skin’s natural glow.";1;;;0;no_selection;;;;;;;;;;;Delo Slim;;;Block after Info Column;;3.99;0;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+ 
+
+DELO SLIM…and your water helps burn calories and slenderize your figure
+
+It helps you feel sexier and a little lighter. The genuine slim-down blend combines Mate and Bitter Orange, that attack fat and help you burn fat, Green Tea which reduces fat and sugar assimilation and drains water retention in your tissues, and Mango, Kiwi and Litchi to promote your skin’s natural glow.";no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:33;delo-slim;delo-slim.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EN-A01831;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:35;;;;;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+ 
+
+DELO SUN…and your water makes you look good, and when you look good – you feel good!
+
+Get your flirt on! These four plants work together to maximize your complexion’s glow and give it a new life. Carrot stimulates and brightens your natural tan, Rosehip and Mallow hydrate, soften and rejuvenate your skin and Acerola tones and enlivens.";1;;;0;no_selection;;;;;;;;;;;Delo Sun;;;Block after Info Column;;3.99;0;"DELO
+
+New to America, but already famous in Europe, DELO is the creation of French inventor and entrepreneur Marguerite Deperrois. She was the daughter of a prevalent pharmacologist and grew up interacting and learning from some of the most talented herbalists and homeopaths in France.  Her passion for utilizing the natural power of plants and bringing people a better quality of life is in every capsule.
+
+ 
+
+How to use it:
+
+Each individual box holds a booster cap with a liquid formula inside. Add water to your DELO shaker bottle (or compatible bottle of water) and simply screw the cap onto it. (*you can also break the seal and pour the contents into your water bottle).  
+
+ 
+
+ 
+
+DELO SUN…and your water makes you look good, and when you look good – you feel good!
+
+Get your flirt on! These four plants work together to maximize your complexion’s glow and give it a new life. Carrot stimulates and brightens your natural tan, Rosehip and Mallow hydrate, soften and rejuvenate your skin and Acerola tones and enlivens.";no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:36;delo-sun;delo-sun.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SDI-DPILLs;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:38;;;;;;1;;;0;no_selection;;;;;;;;;;;Dick Pills;;;Block after Info Column;;7.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:40;dick-pills;dick-pills.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EL-PR7323;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:42;;;;;;1;;;0;no_selection;;;;;;;;;;;Dragon 2000 Male Enhancement;;;Block after Info Column;;12.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:44;dragon-2000-male-enhancement;dragon-2000-male-enhancement.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+NSNN-EP-EH-120;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:46;;;;;;1;;;0;no_selection;;;;;;;;;;;Ed Hardy Energy Shot Berry;;;Block after Info Column;;2.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:48;ed-hardy-energy-shot-berry;ed-hardy-energy-shot-berry.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WELL-A-EMB;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:50;;;;;;1;;;0;no_selection;;;;;;;;;;;Elexia Sexual Enhancement;;;Block after Info Column;;7.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:51;elexia-sexual-enhancement;elexia-sexual-enhancement.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EL-PR1266;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:53;;;;;;1;;;0;no_selection;;;;;;;;;;;Exten Zone Premium 3000;;;Block after Info Column;;14.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:55;exten-zone-premium-3000;exten-zone-premium-3000.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+NSNN-EXTZP4F;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:03:57;;;;;;1;;;0;no_selection;;;;;;;;;;;Extenze 4 Pack Womens;;;Block after Info Column;;9.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:03:58;extenze-4-pack-womens;extenze-4-pack-womens.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BEAM-EX10-BD04;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:04:00;;;;;ExtenZe is a safe and effective blood flow stimulator that makes the most of your natural potential. The penis is made up of three erectile chambers. When aroused, blood flow increases into these chambers, and the outflow of blood is decreased, producing an erection. The more blood that is pushed into the chambers, the larger you can become. ExtenZe helps force more blood flow so these chambers stretch, creating substantial growth in both length and girth. In just a few weeks, your penis can be larger.;1;;;0;no_selection;;;;;;;;;;;Extenze 4 Pk;;;Block after Info Column;;4.99;0;ExtenZe is a safe and effective blood flow stimulator that makes the most of your natural potential. The penis is made up of three erectile chambers. When aroused, blood flow increases into these chambers, and the outflow of blood is decreased, producing an erection. The more blood that is pushed into the chambers, the larger you can become. ExtenZe helps force more blood flow so these chambers stretch, creating substantial growth in both length and girth. In just a few weeks, your penis can be larger.;no_selection;;;;;2;0;no_selection;;2014-03-06 15:04:02;extenze-4-pk;extenze-4-pk.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BEAM-EX10-30;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:04:04;;;;;Herbal supplement that stimulates blood flow for increased size and improved orgasms. Contains: L-Arginine, Ginseng-Eleuthero, Oat Straw, Saw Palmetto, Tribulus Terrestris, Sarsaparilla, Calcium, Yohimbe, Maca Extract, Catuaba, Miura Puama, Nettle, Astragalus, Cayenne, Ginkgo Biloba Extract, Boron, and Zinc;1;;;0;no_selection;;;;;;;;;;;Extenze Box 30 Pack;;;Block after Info Column;;49.99;0;Herbal supplement that stimulates blood flow for increased size and improved orgasms. Contains: L-Arginine, Ginseng-Eleuthero, Oat Straw, Saw Palmetto, Tribulus Terrestris, Sarsaparilla, Calcium, Yohimbe, Maca Extract, Catuaba, Miura Puama, Nettle, Astragalus, Cayenne, Ginkgo Biloba Extract, Boron, and Zinc;no_selection;;;;;2;0;no_selection;;2014-03-06 15:04:07;extenze-box-30-pack;extenze-box-30-pack.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EXT2PX;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:04:09;;;;;;1;;;0;no_selection;;;;;;;;;;;Extenze Fast Acting 2 Pack;;;Block after Info Column;;9.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:04:13;extenze-fast-acting-2-pack;extenze-fast-acting-2-pack.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PP-EXT5CT;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:04:15;;;;;ExtenZe is a safe and effective blood flow stimulator that makes the most of your natural potential. The penis is made up of three erectile chambers. When aroused, blood flow increases into these chambers, and the outflow of blood is decreased, producing an erection. The more blood that is pushed into the chambers, the larger you can become. ExtenZe helps force more blood flow so these chambers stretch, creating substantial growth in both length and girth. In just a few weeks, your penis can be larger.;1;;;0;no_selection;;;;;;;;;;;Extenze Plus 5 Pk;;;Block after Info Column;;9.99;0;ExtenZe is a safe and effective blood flow stimulator that makes the most of your natural potential. The penis is made up of three erectile chambers. When aroused, blood flow increases into these chambers, and the outflow of blood is decreased, producing an erection. The more blood that is pushed into the chambers, the larger you can become. ExtenZe helps force more blood flow so these chambers stretch, creating substantial growth in both length and girth. In just a few weeks, your penis can be larger.;no_selection;;;;;2;0;no_selection;;2014-03-06 15:04:17;extenze-plus-5-pk;extenze-plus-5-pk.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BEAMCEX10SHOTDP;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:04:19;;;;;"We started with a delicious, bold-flavored shot and combined it with the ExtenZe male enhancement formula, which will temporarily enhance your size with each serving. Drink...Enjoy...and Enjoy again.
+
+ExtenZe Shot Libido shooter can be mixed with alcohol. It contains caffeine to keep you going and other herbal ingredients like l-arginine, gamma aminobutyric acid, betaine, l-theanine, panax ginseng, Rhodiola rosea extract, maca extract, epimedium extract, yohimbine hci.";1;;;0;no_selection;;;;;;;;;;;Extenze Shot;;;Block after Info Column;;5.99;0;"We started with a delicious, bold-flavored shot and combined it with the ExtenZe male enhancement formula, which will temporarily enhance your size with each serving. Drink...Enjoy...and Enjoy again.
+
+ExtenZe Shot Libido shooter can be mixed with alcohol. It contains caffeine to keep you going and other herbal ingredients like l-arginine, gamma aminobutyric acid, betaine, l-theanine, panax ginseng, Rhodiola rosea extract, maca extract, epimedium extract, yohimbine hci.";no_selection;;;;;2;0;no_selection;;2014-03-06 15:04:20;extenze-shot;extenze-shot.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BEA-EX10SHOTDSP;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:04:22;;;;;"We started with a delicious, bold-flavored shot and combined it with the ExtenZe male enhancement formula, which will temporarily enhance your size with each serving. Drink...Enjoy...and Enjoy again.
+
+ExtenZe Shot Libido shooter can be mixed with alcohol. It contains caffeine to keep you going and other herbal ingredients like l-arginine, gamma aminobutyric acid, betaine, l-theanine, panax ginseng, Rhodiola rosea extract, maca extract, epimedium extract, yohimbine hci.";1;;;0;no_selection;;;;;;;;;;;Extenze Shot;;;Block after Info Column;;5.99;0;"We started with a delicious, bold-flavored shot and combined it with the ExtenZe male enhancement formula, which will temporarily enhance your size with each serving. Drink...Enjoy...and Enjoy again.
+
+ExtenZe Shot Libido shooter can be mixed with alcohol. It contains caffeine to keep you going and other herbal ingredients like l-arginine, gamma aminobutyric acid, betaine, l-theanine, panax ginseng, Rhodiola rosea extract, maca extract, epimedium extract, yohimbine hci.";no_selection;;;;;2;0;no_selection;;2014-03-06 15:04:24;extenze-shot;extenze-shot-44.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;1;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Sexual Supplements;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WF-8308;;Default;simple;;Magento Store 1;magentostore1;;;;2014-03-06 15:49:39;;;;;;1;;;0;no_selection;;;;;;;;;;;1 Row Belt;;;Block after Info Column;;24.99;0;;no_selection;;;;;2;0;no_selection;;2014-03-06 15:49:39;1-row-belt;1-row-belt.html;4;;0;0;1;0;0;1;1;1;0;1;0;;1;0;0;1;1;0;1;0;0;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Fascinations/Apparel and Lingerie;Magento Store 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

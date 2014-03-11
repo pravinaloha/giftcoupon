@@ -1,0 +1,318 @@
+
+<script type="text/javascript">
+var SKIN_URL = '<?php echo $this->getSkinUrl('') ?>';
+</script>
+
+<link rel="stylesheet" type="text/css" href="<?php echo $this->getSkinUrl('video/css/style.css') ?>" />
+
+<?php
+$baseurl=$this->getUrl('');
+$model_data = Mage::getModel('video/video')->getCollection();
+$results = $model_data->getData();
+$results = array_reverse($results);
+
+?>
+<style>
+ .video-desc {
+  text-align: justify;
+  font-size: 15px;
+ }
+ a {
+    cursor: pointer;
+ }
+  .video-list {
+    float:right;
+    width:35%;
+  }
+ .video-title {
+   margin-bottom:2%; 
+ }
+ .video-title h1 {
+    font-family: oswald;
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #5F5F5F !important;
+   
+ }
+ .video-list-title h3 a {
+    color: #464646 !important;
+    font-family: 'Roboto',Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+ }
+.all-video-title h2 {
+    font-family: oswald;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #5F5F5F !important;
+    margin-bottom:5%;
+ }
+
+ .video-list .fmvps-player-controls-nav{
+  display: none !important;
+ }
+
+.video-list div[id^="playbuttonDiv"]{
+  display: none !important;
+ }
+
+ .video-contents {
+  float:left;
+  width:60%;
+  overflow: hidden;
+ }
+.video-image {
+  text-align: center;
+  margin: 2% 0;
+}
+.video-contents {
+  margin-bottom: 2%;
+}
+.framewidth {
+  width: 400px;
+  display:inline;
+  float:left;
+  margin:0px 5px 15px;
+}
+.video-listing-image {
+  cursor:pointer;
+  float:left;
+  width:30%!important;
+  height:80px;
+  margin-top: 8px;
+  margin-right:30px;
+}
+.sub-detail {
+  margin-right:12%;
+}
+.iframe-size {
+  height:400px;
+  width:600px;
+}
+
+.iframe-size-small {
+  height:90px;
+  width:125px;
+}
+.list-images {
+  cursor: pointer;
+}
+
+ @media only screen and (max-width: 1000px), only screen and (max-device-width: 1000px) {
+    .video-contents{
+      float:none;
+      width:100%;
+      margin-bottom: 30px;
+    }
+    .video-title h1 {
+      font-size: 15px;
+    }
+    .all-video-title h2 {
+      font-size: 15px;
+    }
+    .iframe-size {
+        height:200px;
+        width:300px;
+    }
+    .sub-detail {
+        margin-right:0;
+    }
+    .video-listing-image {
+         width: 126px !important;
+         height:90px;
+         margin-bottom:10px;
+    }
+    .video-list {
+        float:none;
+        width:100%;
+      }
+      .framewidth {
+         width: 100%;
+         margin:0;
+      }
+      .video-listings {
+        clear: both!important;
+        margin-top: 10px!important;
+      }
+
+ }
+ @media screen and (max-width: 1200px) and  (min-width: 1000px) {
+      .iframe-size {
+        height:300px;
+        width:400px;
+    }
+ }
+</style>
+
+<div class="container">
+  <div style="margin:3% 5%">
+    <div style="margin-bottom:2.5%;">
+      <img title="" src="<?php echo $this->getSkinUrl('images/caveau_banner_video_archive.png');?>" alt="Video Banner"/>
+       </div>
+       <div class="sub-detail">
+  <?php
+$count = count($results);
+if($count==0){
+?>
+  <p class="note-msg">There are no videos matching the selection.</p>
+  <?php
+}
+$i = 0;
+$j = 0;
+foreach($results as $result):
+$i++;
+$j++;
+
+$id=$result['video_id'];
+$videogallery=Mage::getModel("video/video")->load($id);
+
+if(isset($_REQUEST['id']) && $_REQUEST['id'])
+{
+  $id1=$_REQUEST['id'];
+}
+else
+{
+  $id1=$result['video_id'];
+}
+
+$videogallery1=Mage::getModel("video/video")->load($id1);
+
+if($videogallery!=$videogallery['video_id']):
+
+parse_str( parse_url( $videogallery['url'], PHP_URL_QUERY ) );
+$videoid = $v;
+$videoname = $videogallery['title'];
+$cat = $videogallery1['position'];
+$url = $videogallery1['url'];
+
+    $strVideoEmbed = '';
+    switch ($cat) {
+      case 'youtube':
+       $strVideoEmbed = '<iframe id="mainvideo" class="iframe-size" src="'.$url.'?wmode=opaque&rel=0&autohide=1&showinfo=0&autoplay=0" frameborder="0" allowfullscreen></iframe>';
+        break;
+     case 'vimeo':
+        $strVideoEmbed = '<iframe id="mainvideo" class="iframe-size" src="'.$url.'?wmode=opaque&rel=0&autohide=1&showinfo=0&autoplay=0" frameborder="0" allowfullscreen></iframe>';
+        break;
+     case 'aol':
+        $strVideoEmbed = '<script type="text/javascript" src="'.$url.'&width=560&height=345"></script>';
+        break;
+      default:
+        # code...
+        break;
+    }
+
+?>
+  <?php if($i == 1): ?>
+  <div id="thumbs" class="navigation video_gallery">
+   
+    <div id="video_frame_cont" class="video-contents">
+     <div class="video-title"><h1><?php echo $videogallery1['title']; ?></h1></div>
+     <div style="text-align:center" id="my_video">
+     <?php echo  $strVideoEmbed ; ?>
+     </div>
+     <div class="clear"></div>
+      <div class="video-desc" style="margin-top:10px;"><span class="main-desc"><?php echo $videogallery1['shortdescription']; ?></span></div>
+
+    </div>
+
+<div class="video-list">
+   <div class="all-video-title"><h2>ALL VIDEOS</h2></div>
+    <ul class="clearfix thumbs noscript">
+      <?php endif;?>
+      <li class="<?php if($j == 1): ?>first<?php elseif($j == 2): $j = 0; ?>last<?php endif;?> framewidth" onclick="selectvideo(<?php echo $id ?>)"> 
+
+       <!--  <img class="video-listing-image"  src="<?php// echo $this->getImageresize($videogallery['image'],'big',400,400);?>"  title="<?php// echo $videogallery['name']; ?>" /> -->
+       <div style="width:125px;height:90px;position:relative;float:left;margin:7px 10px 0px 0px;z-index:2000;">
+        <img class="list-images" src="<?php echo Mage::getBaseUrl("media").$videogallery['small_image']; ?>" alt="<?php echo trim($videoname); ?>">
+       </div>
+
+        <div class="play_btn">
+          <?php /*?><img src="<?php echo $this->getSkinUrl('images/video_play_btn.png') ?>" alt="" /><?php */?>
+        </div>
+        <div class="video-listings">
+        <div class="video-list-title"><h3><a title="<?php echo $videoname; ?>"><?php echo $videoname; ?></a></h3></div>
+        <div class="video-desc"><?php echo substr($videogallery['shortdescription'],0,70); ?><?php if(strlen($videogallery['shortdescription']) >= 70 ): ?>...<?php endif;?></div>
+      </div>
+      </li>
+      <?php endif;?>
+      <?php if($i == $count): ?>
+    </ul>
+  </div>
+  </div>
+  <?php endif;?>
+  <?php endforeach; ?>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript" charset="utf-8">
+function scrollToElement(pageElement) {    
+    var positionX = 0,         
+        positionY = 0;    
+
+    while(pageElement != null){        
+        positionX += pageElement.offsetLeft;        
+        positionY += pageElement.offsetTop;        
+        pageElement = pageElement.offsetParent;        
+        window.scrollTo(positionX, positionY);    
+    }
+}
+
+function selectvideo(videoId) {
+ 
+  window.location=base_url+"videos?id="+videoId;
+
+  /* var intId = videoId;
+      jQuery.ajax ({
+          url: base_url+"video/display/show/id/"+videoId+"/",
+          dataType: "json",
+          async:false
+      })
+      .done(function( data ) {
+        jQuery(".main-title").html(data.name);
+        jQuery(".main-desc").html(data.description);
+
+        var strVideoEmbed = '';
+        switch (data.position) {
+          case 'youtube':
+           strVideoEmbed = '<iframe id="mainvideo" class="iframe-size" src="'+ data.url +'?wmode=opaque&rel=0&autohide=1&showinfo=0&autoplay=0" frameborder="0" allowfullscreen></iframe>';
+            break;
+         case 'vimeo':
+            strVideoEmbed = '<iframe id="mainvideo" class="iframe-size" src="'+ data.url +'?wmode=opaque&rel=0&autohide=1&showinfo=0&autoplay=0" frameborder="0" allowfullscreen></iframe>';
+            break;
+         case 'aol':
+   
+            var script   = document.createElement("script");
+            script.type  = "text/javascript";
+
+             if(jQuery(window).width() <= 480){ 
+                   script.src   = data.url +'&width=300&height=260';
+              }else{
+                  script.src   = data.url +'&width=600&height=400';
+              }
+
+            var my_video = document.getElementById("my_video");
+            my_video.innerHTML = '';
+            my_video.appendChild(script);
+            break;
+          default:
+            break;
+        }
+
+        if(data.category !== 'aol'){
+              var main_image = document.getElementById("my_video");
+             //alert(strVideoEmbed)
+             main_image.innerHTML = strVideoEmbed;
+        }
+      
+
+      var video_frame_cont = document.getElementById("video_frame_cont");
+            scrollToElement(video_frame_cont);
+      });*/
+  
+};
+</script>

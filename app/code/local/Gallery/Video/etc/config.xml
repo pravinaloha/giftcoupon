@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <admin>
+        <routers>
+			<video>
+				<use>admin</use>
+				<args>
+					<module>Gallery_Video</module>
+					<frontName>video</frontName>
+				</args>
+			</video>
+        </routers>
+    </admin>
+</config>

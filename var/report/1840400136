@@ -1,0 +1,13 @@
+a:5:{i:0;s:136:"Cannot send headers; headers already sent in /var/www/giftcoupon/app/code/community/Bloyal/LoyaltyIntegrator/Model/Observer.php, line 61";i:1;s:1598:"#0 /var/www/giftcoupon/lib/Zend/Controller/Response/Abstract.php(148): Zend_Controller_Response_Abstract->canSendHeaders(true)
+#1 /var/www/giftcoupon/app/code/core/Mage/Core/Controller/Response/Http.php(106): Zend_Controller_Response_Abstract->setRedirect('http://192.168....', 302)
+#2 /var/www/giftcoupon/app/code/core/Mage/Core/Controller/Varien/Action.php(712): Mage_Core_Controller_Response_Http->setRedirect('http://192.168....')
+#3 /var/www/giftcoupon/app/code/core/Mage/Core/Controller/Varien/Action.php(690): Mage_Core_Controller_Varien_Action->setRedirectWithCookieCheck('checkout/cart', Array)
+#4 /var/www/giftcoupon/app/code/core/Mage/Checkout/controllers/CartController.php(94): Mage_Core_Controller_Varien_Action->_redirect('checkout/cart')
+#5 /var/www/giftcoupon/app/code/core/Mage/Checkout/controllers/CartController.php(551): Mage_Checkout_CartController->_goBack()
+#6 /var/www/giftcoupon/app/code/core/Mage/Core/Controller/Varien/Action.php(419): Mage_Checkout_CartController->couponPostAction()
+#7 /var/www/giftcoupon/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(250): Mage_Core_Controller_Varien_Action->dispatch('couponPost')
+#8 /var/www/giftcoupon/app/code/core/Mage/Core/Controller/Varien/Front.php(176): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#9 /var/www/giftcoupon/app/code/core/Mage/Core/Model/App.php(354): Mage_Core_Controller_Varien_Front->dispatch()
+#10 /var/www/giftcoupon/app/Mage.php(683): Mage_Core_Model_App->run(Array)
+#11 /var/www/giftcoupon/index.php(89): Mage::run('', 'store')
+#12 {main}";s:3:"url";s:37:"/giftcoupon/checkout/cart/couponPost/";s:11:"script_name";s:21:"/giftcoupon/index.php";s:4:"skin";s:7:"default";}

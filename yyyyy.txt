@@ -1,0 +1,11 @@
+Hi, Am trying to run a script locally on my mac from the terminal. I am getting this error:
+
+Fatal error: Class 'SoapClient' xxxxx not found in /path/test.php on line 2xxxxx
+xxxxxxxxxx
+I am using Mamp Pro. I have tried adding "extension=php_soap.so" to the php.ini file, but am still getting the error.
+
+Can anyone advise on what i can do, or tell me how I can check to confirm that the Soap library is installed?
+xxxxx
+Thanks in advance.xxxxx
+
+xxxxx

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+    </default>
+    <video_index_index>
+    	<reference name="root">
+            <action method="setTemplate"><template>page/1column.phtml</template></action>
+        </reference>
+        <reference name="content">
+            <block type="video/video" name="video" template="video/video.phtml"></block>
+		</reference>
+    </video_index_index>
+    <video_display_index>
+        <reference name="root">
+            <action method="setTemplate"><template>page/1column.phtml</template></action>
+        </reference>
+        <reference name="content">
+            <block type="video/video" name="video" template="video/display.phtml"></block>
+        </reference>
+    </video_display_index>
+</layout> 
